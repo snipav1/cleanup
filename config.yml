@@ -1,0 +1,4 @@
+# List of paths to cleanup
+paths:
+  # Add own log paths here like such:
+  # - /var/logs
